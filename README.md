@@ -17,7 +17,7 @@ As the example shown as follows, this line denotes the causal information of the
 001.xml 14 Reason-Effect Purpose Explicit Present Past
 </sub>
 # Download
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/chinese_causality/) to access resources.
+Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/chinese_causality/chinese_tense.txt) to download data.
 
 # How to Cite this resource
 Please cite the following paper when referring to our corpus in academic publications and papers.
